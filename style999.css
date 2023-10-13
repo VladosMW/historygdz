@@ -1,0 +1,16 @@
+.bfgh {font-family: 'Outfit', sans-serif;
+text-decoration: none;
+display: inline-block;
+color: white;
+padding: 20px 30px;
+margin: 10px 20px;
+border-radius: 20px;
+border: 2.5px solid ;
+background: #b22222;
+letter-spacing: 5px;
+background-size: 200% auto;}
+.bfgh:hover {
+  background: #fff5ee;
+  color: black;}
+.textiksaita {font-family: 'Outfit', sans-serif;
+}

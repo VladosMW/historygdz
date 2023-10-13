@@ -1,0 +1,26 @@
+.baton {
+  font-family: 'Outfit', sans-serif;
+  display: inline-block;
+  color:#0000ff;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 18px;
+  border: 2.5px solid ;
+  background: #ffffff;
+  letter-spacing: 5px;
+  background-size: 300% auto;
+
+}
+{background-color: yellow;}
+.baton:hover {
+  background:#0000ff ;
+  color: white;
+}
+.textiksaita {font-family: 'Outfit', sans-serif;
+}
+.adkas {font-family: 'PT Sans', sans-serif;
+color: #120a8f;
+}
+.baton{
+      max-width: 100%;
+}
